@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="facebook_app_id">323397958446360</string>
+    <string name="fb_login_protocol_scheme">fb323397958446360</string>
+
+    <string name="app_name">My Application</string>
+
+    <!--Share-->
+    <string name="share_with">Chia sẻ</string>
+    <string name="send_email_with">Gửi mail</string>
+    <string name="text_share_my_app">@string/app_name</string>
+
+</resources>
